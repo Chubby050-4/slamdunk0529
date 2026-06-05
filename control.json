@@ -1,5 +1,5 @@
 {
-  "master_controller": true,
+  "master_controller": false,
   "notif_id": 4,
   "notif_msg": "namo b4ding ka"
 }
